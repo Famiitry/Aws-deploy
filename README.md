@@ -18,3 +18,5 @@ perpleACSI-encoutnter 110103.45.1668 long street of DC
 cleocleo-st.uix
 
 vanilla_epsilum.run.dev ./loopstart-dev:01-port (TP = 01100110. ._)
+
+windows isnt device managemnte wireless - not backdoor for 33:33 min.

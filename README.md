@@ -28,3 +28,4 @@ New deploy
 newslesterAnthropic
 new login anthropic Pr2 
 Termial up updated 
+plox-deex.exe

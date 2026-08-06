@@ -30,3 +30,4 @@ new login anthropic Pr2
 Termial up updated 
 plox-deex.exe
 new expo contribution - new exploit demando
+new migration with CF-nFT 

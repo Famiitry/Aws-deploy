@@ -34,3 +34,4 @@ new migration with CF-nFT
 AUR blocked
 more deploys
 No spend bit-purys
+no claude

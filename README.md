@@ -36,6 +36,7 @@ btt-dyg
 news-Cicos-auth:331.09x -f log, 1
 new-spyware soff.off 
 line 3.3.1:3007
+rootkit_up:0v.2
 more deploys
 No spend bit-purys
 no claude

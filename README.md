@@ -34,6 +34,8 @@ new migration with CF-nFT
 AUR blocked
 btt-dyg
 news-Cicos-auth:331.09x -f log, 1
+new-spyware soff.off 
+line 3.3.1:3007
 more deploys
 No spend bit-purys
 no claude

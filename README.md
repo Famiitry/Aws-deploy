@@ -41,3 +41,4 @@ more deploys
 No spend bit-purys
 no claude
 Kings loot no claim 🥇
+new avernosvanilla

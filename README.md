@@ -46,3 +46,4 @@ Kings loot no claim 🥇
 new avernosvanilla
 new labels
 hackaton winner
+arco-party.0

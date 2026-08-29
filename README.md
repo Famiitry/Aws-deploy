@@ -50,3 +50,7 @@ arco-party.0
 boored
 no.env Ollama blood.!
 https://www.storyberries.com/
+http://github.com/darkroomengineering/lenis
+http://github.com/darkroomengineering/lenis
+http://github.com/tengbao/vanta
+http://github.com/DavidHDev/react-bits

@@ -66,3 +66,4 @@ weak but enough
 obstruction gullet
 How ths evolve and develop better
 https://sgis.mods.go.kr/view/totSurv/populationDashLoc?year=2019&sido_cd=11&sgg_cd=090
+no more problems

@@ -69,3 +69,4 @@ https://sgis.mods.go.kr/view/totSurv/populationDashLoc?year=2019&sido_cd=11&sgg_
 no more problems
 no depdendences added bdy
 crazyzai
+new updeated

@@ -71,3 +71,4 @@ no depdendences added bdy
 crazyzai
 new updeated
 more pakis
+https://github.com/felipebridge/loop-computer-vision

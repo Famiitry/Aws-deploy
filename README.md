@@ -72,3 +72,4 @@ crazyzai
 new updeated
 more pakis
 https://github.com/felipebridge/loop-computer-vision
+for desgnied fornt

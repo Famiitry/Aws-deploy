@@ -75,7 +75,7 @@ https://github.com/felipebridge/loop-computer-vision
 for desgnied fornt
 new friend
 .newReadmenStarted
-egiptyan returns
+ returns
 sommny explanition 
 muse
 no commits around leppt.saas.90:90 backdoor 2:30903

@@ -79,3 +79,11 @@ new friend
 sommny explanition 
 muse
 no commits around leppt.saas.90:90 backdoor 2:30903
+
+
+
+----
+https://github.com/k2-fsa/OmniVoice
+
+
+https://huggingface.co/openai/whisper-large-v3

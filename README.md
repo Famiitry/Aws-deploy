@@ -87,3 +87,4 @@ https://github.com/k2-fsa/OmniVoice
 
 
 https://huggingface.co/openai/whisper-large-v3
+https://github.com/DietrichGebert/ponytail

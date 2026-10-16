@@ -99,3 +99,4 @@ no an
 no da
 yes w
 yes w2
+try r?, idk == 0 ; mean stay projects planned

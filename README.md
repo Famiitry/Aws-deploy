@@ -102,3 +102,4 @@ yes w2
 try r?, idk == 0 ; mean stay projects planned
 new pl -🤯: ploot -erv. 
 grep -v ;^\s*//' /etc
+no adds

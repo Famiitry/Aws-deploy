@@ -105,3 +105,4 @@ grep -v ;^\s*//' /etc
 no adds
 endpoint forgot
 same imp./pr-09
+no conjjtu -pk.onion
